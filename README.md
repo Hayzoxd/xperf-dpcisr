@@ -17,4 +17,4 @@ Credits go to everyone mentioned below. I do not in any way wish to claim to be 
 mbk1969, Sordum
 
 ## Download
-Get the latest version [here](https://github.com/Hayzox/xperf-dpcisr/archive/main.zip)
+Get the latest version [here](https://github.com/Hayzoxd/xperf-dpcisr/archive/main.zip)
